@@ -37,8 +37,6 @@ class vec{
             return data[index];
         }
     }
-
-    
 };
 
 int main(){

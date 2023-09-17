@@ -26,6 +26,7 @@ class vec{
             delete[] data;
             data=new_data;
         } 
+
         data[size++]=value;
     }
 

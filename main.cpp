@@ -51,5 +51,7 @@ int main(){
         cout<<myvec[i]<<endl;
     }
     
+
+    cout<<"hi";
     return 0;
 }
